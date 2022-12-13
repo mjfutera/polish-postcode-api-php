@@ -23,6 +23,9 @@
                 }
             }
         }
+        $count = connectSQLite('SELECT COUNT(*) FROM polish', 'postCodes.db');
+        $result['CodesInDB'] = $count[0]['COUNT(*)'];
+
         echo json_encode($result);
     }
 ?>
