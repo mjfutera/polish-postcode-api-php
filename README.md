@@ -8,7 +8,7 @@
 ## Introduction
 Valuable API which returns City and Vovoidshipt according to provided postcode. Can be used in registration forms. Postcodes are stored in SQLite database.
 
-If You want to participate in app development, just text me. Reason to build this app is to create portfolio.
+If You want to participate in app development, just text me. Reason to build this app is to create portfolio
 
 ## Aplication status
 The project is still in the **development stage**.
