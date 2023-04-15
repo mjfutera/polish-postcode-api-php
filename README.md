@@ -14,8 +14,7 @@ If You want to participate in app development, just text me. Reason to build thi
 The project is still in the **development stage**.
 
 ## You can see working app under:
-* https://api.michalfutera.pro/postcode/pl/<postcode_goes_here>
-* https://api.michalfutera.pro/postcode/pl/33-100 - Tarnów city
+* https://rapidapi.com/mojasuperfirma/api/polish-postcode/
 
 ## Used technologies
 * PHP 7.4
